@@ -231,4 +231,8 @@
 
     <!-- Flag indicating whether we should enable the adaptive sleep.-->
     <bool name="config_adaptive_sleep_available">true</bool>
+
+    <!-- Smart Charing is available -->
+    <bool name="config_smartChargingAvailable">true</bool>
+
 </resources>
