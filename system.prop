@@ -65,3 +65,6 @@ persist.timed.enable=true
 # WiFi Display
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+# WaveOS
+ro.wave.maintainer=Anubhav Singh
