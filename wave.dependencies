@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "vendor_asus_sdm660-common",
+    "target_path": "vendor/asus/sdm660-common"
+  }
+]
